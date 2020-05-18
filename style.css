@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+}
+
+html {
+  background: #0096C8;
+}
+
+h1 {
+	font-family: 'News Cycle', sans-serif;
+}
+
+p {
+	font-family: 'Actor', sans-serif;
+}
+
+.content {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 25px;
+  padding: 25px;
+  background: #7FCBE4;
+  text-align: center;
+}
+
+.text {
+  width: 50%;
+  margin: 0 auto;
+}
